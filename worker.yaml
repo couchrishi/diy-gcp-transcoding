@@ -1,0 +1,3 @@
+service: worker
+runtime: custom
+env: flex
